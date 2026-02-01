@@ -9,8 +9,8 @@ Project ini adalah program sederhana untuk **konversi bilangan** yang dibuat men
 - **Makefile** : File untuk compile dan menjalankan program dengan mudah.
 
 ## Cara Compile dan Run
--mingw32-make        Untuk Compile
--mingw32-make run    Untuk Compile + Run
--mingw32-make clean  Untuk Menghapus Compile + Build
+-**mingw32-make**        Untuk Compile
+-**mingw32-make run**    Untuk Compile + Run
+-**mingw32-make clean**  Untuk Menghapus Compile + Build
 
 Bisa dijadikan Library tinggal Ambil dan Tuliskan Saja Konversi.c dan Konversi.h di header Project kamu!!
